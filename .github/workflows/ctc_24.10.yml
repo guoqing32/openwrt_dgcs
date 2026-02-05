@@ -12,7 +12,7 @@ on:
     inputs:
       ssh:
         description: 'ssh'
-        required: false
+        required: true
         default: 'false'
     
 env:
